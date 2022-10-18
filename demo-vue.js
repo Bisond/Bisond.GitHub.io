@@ -8555,7 +8555,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var _hoisted_1 = /*#__PURE__*/Object(vue__WEBPACK_IMPORTED_MODULE_0__["createVNode"])("img", {
   alt: "Vue logoxxx",
-  src: "https://img0.baidu.com/it/u=1088754973,1390499664&fm=253&fmt=auto&app=138&f=JPEG?w=335&h=500"
+  src: "//img.alicdn.com/imgextra/i3/O1CN01HmN4l21lpai7j2p3H_!!6000000004868-2-tps-200-200.png"
 }, null, -1);
 
 function render(_ctx, _cache) {
