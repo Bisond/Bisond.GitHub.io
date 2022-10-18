@@ -8564,7 +8564,7 @@ function render(_ctx, _cache) {
   return Object(vue__WEBPACK_IMPORTED_MODULE_0__["openBlock"])(), Object(vue__WEBPACK_IMPORTED_MODULE_0__["createBlock"])("div", {
     style: _ctx.style.home
   }, [_hoisted_1, Object(vue__WEBPACK_IMPORTED_MODULE_0__["createVNode"])(_component_HelloWorld, {
-    msg: "Welcome to Your Vue.js App test"
+    msg: "Welcome to Your Vue.js App"
   }), Object(vue__WEBPACK_IMPORTED_MODULE_0__["createVNode"])("div", {
     style: _ctx.style.info
   }, "More information about Vue.js", 4), Object(vue__WEBPACK_IMPORTED_MODULE_0__["createVNode"])("div", {
